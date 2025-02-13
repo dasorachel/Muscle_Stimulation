@@ -1,10 +1,10 @@
-# adalm-stimulation
+# Muscle_Stimulation
 
 ## Description
-This repository contains code to interface with the Analog Devices ADALM1000. The code allows for voltage or current-controlled stimulation and automatically records current and voltage. 
+This repository contains code to interface with the Analog Devices ADALM1000. The code allows for voltage or current-controlled stimulation from 2 simultaneous channels and automatically records current and voltage. 
 
 ## Prerequisites
-- Windows operating system
+- Windows or Mac operating system
 - Git (for cloning the repository)
 - Administrator access to install dependencies
 
@@ -60,6 +60,8 @@ git clone https://github.com/WinnemacLabs/adalm-stimulation.git
 cd adalm-stimulation
 ```
 
+2. Install Dependencies
+
 
 ## Usage
 Programs should be run while ADALM1000 is plugged into USB port. 
@@ -75,5 +77,3 @@ Common issues and their solutions:
 
 ## Contact
 Rachel Daso (racheldaso2027@u.northwestern.edu)
-
-Alexander Curtiss (alexander.curtiss@winnemaclabs.com)
