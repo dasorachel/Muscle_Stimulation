@@ -11,10 +11,6 @@ This repository contains code to interface with the Analog Devices ADALM1000. Th
 ## Windows Installation Instructions
 
 1. Clone the repository:
-```powershell
-git clone https://github.com/WinnemacLabs/adalm-stimulation.git
-cd adalm-stimulation
-```
 
 2. Install libsmu c++ dependencies:
    - Download from: https://github.com/analogdevicesinc/libsmu/releases/tag/v1.0.4
@@ -54,11 +50,7 @@ pip install -r requirements.txt
 
 ## Mac Installation Instructions
 
-1. Clone the repository:
-```powershell
-git clone https://github.com/WinnemacLabs/adalm-stimulation.git
-cd adalm-stimulation
-```
+1. Clone the repository
 
 2. Install Dependencies
 
